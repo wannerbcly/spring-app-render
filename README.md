@@ -1,3 +1,12 @@
+---
+title: Spring App
+emoji: 🚀
+colorFrom: blue
+colorTo: blue
+sdk: docker
+pinned: false
+---
+
 # Simple button
 
 ## How to start
